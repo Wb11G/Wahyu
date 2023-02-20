@@ -2,9 +2,9 @@
 
 ## I'm a Front End Developer!!
 
-- 🔭 Live is code
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more about web
+- 💕 ZERO TO HERO 
+- 🧑🏻‍💻 I’m Learning JS,TS,DART & All frontend technologies
+- 🏆 2021 Goals: Learn more about web
 
 ### Languages and Tools:
 
